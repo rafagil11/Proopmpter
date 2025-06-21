@@ -1,0 +1,9 @@
+{
+  "prompts": [
+    "Write a friendly email: {{input}}",
+    "Draft a formal letter: {{input}}",
+    "Create an urgent message: {{input}}"
+  ],
+  "task": "Write an email to a customer about a delayed order.",
+  "expectedOutput": "Dear Customer, We apologize for the delay in your order. We are working to resolve this issue and will keep you updated on the status."
+} 
